@@ -1,5 +1,5 @@
 # Note-Taker
-  https://github.com/mamadou1991/Team-Profile-Generator
+  https://github.com/mamadou1991/Note-Taker
   # Description
   This app allows users to actively add and delete notes.
   # Table of Contents 
